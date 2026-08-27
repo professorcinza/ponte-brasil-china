@@ -42,9 +42,11 @@ O projeto nasce como um **compromisso unilateral** — não como uma negociaçã
 ## Estrutura planejada
 
 - `docs/unilateral-commitment/` — Declaração Unilateral de Compromisso, documento fundador do projeto (trilíngue)
+- `docs/carta-boas-vindas/` — Carta de Boas-Vindas: o convite humano ao ecossistema (trilíngue)
 - `docs/open-collaboration-charter/` — Carta de Colaboração Aberta: termos de colaboração do autor como arquiteto de protótipos (trilíngue)
 - `docs/open-invention-policy/` — Política de Invenção Aberta: regime "patente free" com atribuição obrigatória (trilíngue)
-- `prototypes/` — série numerada de protótipos; começa no `0001-ponte/` (desafio em andamento)
+- `docs/spec-driven-development.md` — Constituição de engenharia: Spec Driven Development (trilíngue)
+- `prototypes/` — série numerada de protótipos; começa no `0001-ponte/` (aprovado em 22/08/2026)
 - `docs/proposals/` — Propostas futuras de intercâmbio cultural, acadêmico, comercial, tecnológico e ambiental *(em construção)*
 
 ## Como contribuir
